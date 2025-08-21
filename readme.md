@@ -1,6 +1,6 @@
 # Entity Detection Test
 
-Learning project to figure out how to apply NLP to large corpuses for good quality and low cost. <!-- See [article](placeholder.com) -->
+Learning project to figure out how to apply NLP to large corpuses for good quality and low cost. See [article](https://medium.com/@jgfriedman99/nlp-on-a-budget-c8cc5ce3ef5c)
 
 ## Corpus
 - Every 8-K and attachment in 2024.
@@ -19,11 +19,10 @@ Learning project to figure out how to apply NLP to large corpuses for good quali
 ## Data
 - example_data_ingest/ - example data for nlp
 - records/ - output after nlp
-- persons/ cleaned data
+- persons/ - cleaned data
 
 ## Visualization
-<!-- See [website](placeholder.com)
- -->
+See [website](https://datamule.xyz/fun-stuff/8k_network_graph)
 ## Logs
 
 Note that batches 0 through 9 were processed seperately.
